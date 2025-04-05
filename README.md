@@ -1,1 +1,1 @@
-# smartballot
+# SmartBallot
